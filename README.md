@@ -243,3 +243,6 @@ If you used Loconotion to build a cool site and want it added to the list above,
 ## Support [![Buy me a coffee](https://img.shields.io/badge/-buy%20me%20a%20coffee-lightgrey?style=flat&logo=buy-me-a-coffee&color=FF813F&logoColor=white "Buy me a coffee")](https://www.buymeacoffee.com/leoncvlt)
 
 If you found this useful, consider [buying me a coffee](https://www.buymeacoffee.com/leoncvlt) so I get a a nice dose of methilxanthine, and you get a nice dose of karma.
+
+[![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/lucj/demo.git)
+
